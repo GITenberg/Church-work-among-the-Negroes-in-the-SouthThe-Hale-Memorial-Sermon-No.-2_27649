@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32817'
     url: http://www.gutenberg.org/2009/agents/32817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27649#Church-work-among-the-Negroes-in-the-SouthThe-Hale-Memorial-Sermon-No.-2
 gutenberg_issued: '2008-12-29'
 gutenberg_type: Text
 identifiers:
